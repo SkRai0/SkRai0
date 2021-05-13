@@ -3,6 +3,6 @@
 
   >I’m Currently A Student👨‍🎓.  
 
-  >I’m Currently Learning Web Development💻.
+  >I’m Currently Learning Competitive Programing & Web Development💻.
   
   >I'm Always Sleepy😴.
