@@ -5,4 +5,4 @@
 
   >I’m Currently Learning Competitive Programing & Web Development💻.
   
-  >I'm Always Sleepy😴.
+  >Always Up To Learn Something New.
