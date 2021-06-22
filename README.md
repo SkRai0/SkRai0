@@ -7,7 +7,7 @@
 - I’m Currently Learning Competitive Programing & Web Development💻.  
   
 
-- ❓ Ask me about anything related to MERN stack and related technologies  
+- Prefer Smartwork Over Hardwork  
   
 
 - ⚡ Fun fact: I use tabs over spaces  
