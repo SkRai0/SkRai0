@@ -1,7 +1,7 @@
 # <div align="center">Hi👋 I Am Sudhanshu Kumar Rai</div>  
   
 
-- I’m Currently A Student👨‍🎓.  
+- I’m Currently an Associate Software Engineer🧑‍💻.  
   
 
 - I’m Currently Learning Competitive Programing & Web Development💻.  
