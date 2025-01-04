@@ -4,11 +4,11 @@
 - I’m Currently an Associate Software Engineer🧑‍💻.  
   
 
-- I’m Currently Learning Competitive Programing & Web Development💻.  
-  
+- Prefer Smartwork Over Hardwork
 
-- Prefer Smartwork Over Hardwork  
-  
+
+- Crafting the unseen magic that powers your favorite apps—one line of code at a time!💻.  
+
 
 - ⚡ Fun fact: I use tabs over spaces  
   
