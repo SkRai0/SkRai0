@@ -1,7 +1,7 @@
 # <div align="center">Hi👋 I Am Sudhanshu Kumar Rai</div>  
   
 
-- I’m Currently an Associate Software Engineer🧑‍💻.  
+- I’m a Software Engineer🧑‍💻.  
   
 
 - Prefer Smartwork Over Hardwork
