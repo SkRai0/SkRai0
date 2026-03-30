@@ -9,7 +9,7 @@ Currently focused on designing and implementing **low-latency distributed infras
 
 ---
 
-# 🧠 Current Focus
+## 🧠 Current Focus
 
 - Building **ApexMatch — Distributed Trading Engine**
 - Deep diving into **Distributed Systems Architecture**
@@ -18,7 +18,7 @@ Currently focused on designing and implementing **low-latency distributed infras
 
 ---
 
-# 🏗️ Distributed Systems Projects
+## 🏗️ Distributed Systems Projects
 
 ### ApexMatch — Distributed Trading Engine
 
@@ -34,7 +34,7 @@ A **high-performance distributed trading engine** inspired by modern financial e
 
 **Tech**
 
-Java • Spring Boot • Kafka • Docker
+Java • Spring Boot • Kafka • Docker • Postgres
 
 ---
 
@@ -50,40 +50,41 @@ These are systems I am currently planning to build as part of my distributed sys
 
 ---
 
-# 🛠️ Tech Stack
+## 🛠️ Tech Stack
 
-### Languages
-- Java
-- SQL
+### 👨‍💻 Languages
+<p>
+  <img src="https://skillicons.dev/icons?i=java,python,c,cpp,javascript,sql" />
+</p>
 
-### Backend
-- Spring Boot
-- Spring MVC
-- Spring Security
-- REST API Development
-- Microservices
+### ⚙️ Backend Development
+<p>
+  <img src="https://skillicons.dev/icons?i=spring,nodejs,express" />
+</p>
 
-### Databases
-- PostgreSQL
-- MySQL
-- MongoDB
-- JPA / Hibernate
+### 🗄️ Databases
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb" />
+</p>
 
-### Distributed Systems
-- Apache Kafka
-- Event Driven Architecture
-- Concurrency & Multithreading
-- System Design
+### 🔄 Distributed Systems
+<p>
+  <img src="https://skillicons.dev/icons?i=kafka,redis,rabbitmq" />
+</p>
 
-### Infrastructure & Tools
-- Docker
-- Git
-- Linux
-- Maven / Gradle
+### 🌐 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,html,css" />
+</p>
+
+### 🧰 Infrastructure & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git,linux,maven,gradle,aws" />
+</p>
 
 ---
 
-# 📚 What I’m Learning
+## 📚 What I’m Learning
 
 My current roadmap focuses on mastering **distributed systems from fundamentals to advanced architecture**.
 
@@ -100,7 +101,7 @@ Topics include:
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 ![Sudhanshu's GitHub stats](https://github-readme-stats.vercel.app/api?username=SkRai0&show_icons=true)
 
@@ -108,7 +109,7 @@ Topics include:
 
 ---
 
-# 🎯 Goals
+## 🎯 Goals
 
 - Build production-grade distributed systems
 - Contribute to large-scale backend platforms
@@ -117,7 +118,7 @@ Topics include:
 
 ---
 
-# 📫 Connect With Me
+## 📫 Connect With Me
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/skrai0/) 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sudhanshurai.info@gmail.com)
